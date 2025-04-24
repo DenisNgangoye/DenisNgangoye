@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm **Flojus Denis NGANGOYE**
 
-<!--
-**DenisNgangoye/DenisNgangoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Content de vous voir ici
 
-Here are some ideas to get you started:
+Developpeur web former dans le cadre du projet D-clic de l'OIF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi :
+Bienvenue sur une parie de ma vie sur internet, je suis un apprentit Développeur et j'aspire à faire carrière dans le développement web on travaillant sur des projets à fort impact au Congo et dans le monde entier.
+
+N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de la tech. 🌟
+
+🛠 **Tech Stack :** 
+- **Langages** : HTML, CSS, JavaScript, 
+- **Versioning** : Git & GitHub
+
+## 📫 Me contacter :
+📧 **Email** : dgangoye@icloud.com
+
+💼 
