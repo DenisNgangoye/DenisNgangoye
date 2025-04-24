@@ -1,4 +1,4 @@
-# Hi there 👋 I'm **Flojus Denis NGANGOYE**
+# Hi there 👋 I'm **Flojuste Denis NGANGOYE**
 
 Content de vous voir ici
 
