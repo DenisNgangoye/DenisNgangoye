@@ -16,4 +16,4 @@ N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la te
 ## 📫 Me contacter :
 📧 **Email** : dgangoye@icloud.com
 
-💼 
+💼 **Contats** : (+242) 06 849 11 22
